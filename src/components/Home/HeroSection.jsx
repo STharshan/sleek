@@ -14,7 +14,7 @@ const HeroSection = () => {
   }, []);
 
   return (
-    <section className="relative w-full min-h-screen text-white mb-20">
+    <section className="relative w-full min-h-screen text-white mb-17">
       {/* Background Video */}
       <video
         className="absolute top-0 left-0 w-full h-full object-cover z-0"
@@ -38,7 +38,7 @@ const HeroSection = () => {
         </div>
 
         {/* Prestige */}
-        <p className="text-5xl md:text-6xl font-bold leading-tight tracking-wide mt-5 mb-4 md:ml-15"
+        <p className="text-5xl md:text-6xl font-bold leading-tight tracking-wide mt-5 mb-4 "
            data-aos="fade-up" data-aos-delay="200">
           SLEEK
         </p>
