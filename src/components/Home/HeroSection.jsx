@@ -14,7 +14,7 @@ const HeroSection = () => {
   }, []);
 
   return (
-    <section className="relative w-full min-h-screen text-white mb-17">
+    <section className="relative w-full min-h-screen text-white">
       {/* Background Video */}
       <video
         className="absolute top-0 left-0 w-full h-full object-cover z-0"
@@ -76,7 +76,7 @@ const HeroSection = () => {
 
       {/* Bottom Info Bar */}
       <div className="absolute left-0 w-full z-10 border-t border-gray-700" data-aos="fade-up" data-aos-delay="700">
-        <div className="mx-auto bg-black backdrop-blur-sm flex flex-col sm:flex-row items-center justify-between px-6 py-3 text-white text-sm font-semibold shadow-lg">
+        <div className="mx-auto bg-black backdrop-blur-sm flex flex-col sm:flex-row items-center justify-center px-6 py-3 text-white text-sm font-semibold shadow-lg">
           {/* Rating Section */}
           <div className="flex items-center gap-3 bg-black border border-gray-600 px-4 py-2 rounded-full order-1 sm:order-2 mb-3 sm:mb-0">
             {/* Stars */}
