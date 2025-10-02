@@ -7,19 +7,19 @@ import "aos/dist/aos.css";
 const services = [
   {
     title: "THE WORKS",
-    desc: "Did somebody say 12-month paint protection? This package did! We kick it off with a full exterior decontamination including glue and tar remover, fallout remover and clay bar treatment. This removes embedded road contaminants leaving the paint silky smooth and preparing it for the wax application. Once the wax has been applied it will enhance gloss and protect that freshly decontaminated paint. This will also qualify your vehicle for the exterior maintenance scheme.",
+    desc: "Did somebody say 12-month paint protection? This package did! We kick it off with a full exterior decontamination including glue and tar remover",
     image: "/1.avif",
     path: "",
   },
   {
     title: "THE DEEP CLEAN",
-    desc: "We start the detail off with a thorough exterior deep clean and 3-month paint and glass protection. Don't forget the tyre shine! Once the exterior is up to showroom standard, we then move onto the interior consisting of a full interior clean touching every surface using dedicated interior cleaners. Finished off with mats vacuumed and cleaned.",
+    desc: "We start the detail off with a thorough exterior deep clean and 3-month paint and glass protection. Don't forget the tyre shine! Once the exterior is up to showroom standard, we then move onto the interior consisting",
     image: "/s.avif",
     path: "/",
   },
   {
     title: "INTERIOR DETAIL",
-    desc: `Why not protect your asset with the "New Car Detail"? This is a perfect way to protect that factory fresh paint and keep your car in showroom condition. 12-month paint protection and glass protection, what's not to love? A full decontamination wash will take place removing any contaminants from the factory. To qualify for this package your vehicle cannot be more than 3 months old. `,
+    desc: `Why not protect your asset with the "New Car Detail"? This is a perfect way to protect that factory fresh paint and keep your car in showroom condition.`,
     image: "/s.avif",
     path: "/",
   },
@@ -31,8 +31,7 @@ const services = [
   },
   {
     title: "MAINTENANCE SCHEME",
-    desc: `After your vehicle has been treated with "The Works" or "The Full Hit" it will qualify for the maintenance scheme. This allows you to have your vehicle maintained at a reduced rate and still receive the same high standard of work every time. You will get that new car feeling after every visit. We deliver not only a detail but an experience to your doorstep. What more could you want than us turning up regularly to maintain your pride and joy? So, why not pay annually? By doing this you will save more than paying monthly and benefit from some great perks along the way!`,
-    image: "/s.avif",
+    desc: `After your vehicle has been treated with "The Works" or "The Full Hit" it will qualify for the maintenance scheme`,    image: "/s.avif",
     path: "/",
   },
 ];
