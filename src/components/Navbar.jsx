@@ -26,7 +26,7 @@ const Navbar = () => {
 
       <div className="relative max-w-7xl mx-auto flex items-center justify-between px-4">
         {/* Logo */}
-        <img src="/logo.avif" alt="Logo" className="h-20 object-contain" />
+        <img src="/logo.png" alt="Logo" className="h-20 object-contain" />
 
         {/* Desktop Menu */}
         <div className="hidden sm:flex space-x-8">
